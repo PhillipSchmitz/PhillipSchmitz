@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhillipSchmitz
-- 👀 I’m interested in website developement, coding itself and more.
+- 👀 I’m interested in AI, general programming and more.
 - 🌱 I’m currently learning advanced coding concepts and techniques.
 - 💞️ I’m looking to collaborate on several projects in the future.
 - 📫 How to reach me ...
