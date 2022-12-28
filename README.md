@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhillipSchmitz
-- 👀 I’m interested in AI, modelling and simulation and more.
+- 👀 I’m interested in AI, general algorithms and simulations.
 - 🌱 I’m currently learning advanced coding concepts and techniques.
 - 💞️ I’m looking to collaborate on several projects in the future.
 - 📫 How to reach me ...
